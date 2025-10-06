@@ -1,0 +1,22 @@
+Hello, World!
+
+This is a test file for the Audio Encoder/Decoder project.
+
+The system can encode this text file into an audible WAV file,
+and then decode it back to recover the original text - even 
+after recording the audio with a phone microphone!
+
+Features demonstrated:
+✓ Text encoding
+✓ Filename preservation
+✓ Extension preservation
+✓ Error correction
+✓ CRC32 integrity checking
+
+Try encoding this file:
+  ./audio_encoder_decoder encode examples/test.txt output.wav
+
+Then decode it:
+  ./audio_encoder_decoder decode output.wav ./
+
+You should get back this exact file as test.txt!

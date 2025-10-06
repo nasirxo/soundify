@@ -1,0 +1,41 @@
+# Build artifacts
+audio_encoder_decoder
+*.o
+*.obj
+*.exe
+
+# Build directories
+build/
+cmake-build-*/
+.cmake/
+
+# Output files
+*.wav
+*.decoded
+*.encoded
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Test files (except examples)
+test_output*
+temp_*
+output_*
+
+# Libraries
+*.a
+*.so
+*.dylib
+*.dll
+
+# Logs
+*.log
+
+# Core dumps
+core
+core.*
