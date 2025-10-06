@@ -302,7 +302,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 👨‍💻 Author
 
-Built with ❤️ by the Nasir Ali
+Built with ❤️ by Nasir Ali
 
 **Soundify** - Turn files into sound waves!
 
@@ -321,4 +321,5 @@ If you find Soundify useful, please give it a ⭐️ on GitHub!
 **Soundify** - Because sometimes, you just need to hear your data! 🎵
 
 *Note: This is an experimental project for educational purposes. For production file transmission, consider standard network protocols with proper encryption and error handling.*
+
 
